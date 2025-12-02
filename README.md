@@ -11,7 +11,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **EdgeVerve**
+ 🔭 I’m currently working in **EdgeVerve**
  
  🌱 I’m currently learning **Docker, Kubernetes & NextJS**
 
